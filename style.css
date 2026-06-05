@@ -1,0 +1,13 @@
+
+body{padding-top:70px}
+.navbar{background:#111}
+.hero{
+background:linear-gradient(135deg,#ff9933,#fff,#138808);
+padding:120px 20px;
+min-height:70vh;
+display:flex;
+align-items:center;
+}
+h1,h2{font-weight:700}
+.footer{background:#111;color:#fff}
+.card{border-top:4px solid #ff9933}
